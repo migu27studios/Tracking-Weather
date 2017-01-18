@@ -1,1 +1,2 @@
 Provo: 35 Degrees.
+San Diego: 70 Degrees.
