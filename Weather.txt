@@ -1,2 +1,3 @@
 Provo: 35 Degrees.
 San Diego: 70 Degrees.
+Los Angeles: 75 Degrees.
