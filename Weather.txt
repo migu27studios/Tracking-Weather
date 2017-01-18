@@ -3,3 +3,5 @@ Rome: 80 Degrees.
 Venice: 75 Degrees.
 San Diego: 70 Degrees.
 Los Angeles: 75 Degrees.
+Altanta: 85 Degrees.
+Buford: 70 Degrees.
