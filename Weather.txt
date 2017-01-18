@@ -1,1 +1,3 @@
 Provo: 35 Degrees.
+Rome: 80 Degrees.
+Venice: 75 Degrees.
